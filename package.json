@@ -1,0 +1,19 @@
+{
+    "name": "stb-eslint-config",
+    "version": "1.4.1",
+    "description": "General-purpose eslint linting rules.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "repository": "stbsdk/eslint-config",
+    "keywords": [
+        "commonjs",
+        "sdk",
+        "stbsdk",
+        "framework",
+        "eslint",
+        "config"
+    ],
+    "license": "GPL-3.0"
+}
