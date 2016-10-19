@@ -12,7 +12,7 @@
         "url": "https://github.com/stbsdk/eslint-config.git"
     },
     "dependencies": {
-        "spa-eslint-config": "spasdk/eslint-config"
+        "spa-eslint-config": "1.*.*"
     },
     "keywords": [
         "commonjs",
